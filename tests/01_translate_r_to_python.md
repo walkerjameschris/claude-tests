@@ -55,7 +55,7 @@ models |>
 
 ```
 
-#### Response ####
+## Response
 
 Claude produced the following output. The response is largely correct and does
 follow good programming practice and convention. However, it did forget to

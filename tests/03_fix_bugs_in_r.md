@@ -34,7 +34,7 @@ data |>
 
 ```
 
-#### Response ####
+## Response
 
 Claude produced the following output. It was successfully able to identify bugs
 in this code by (a) finding the column which did not exist and (b) identifying
@@ -79,7 +79,7 @@ data |>
 # Let me know if you have any other questions!
 ```
 
-## Input
+## Additional Test
 
 I tried this test again and was much more opaque. I only indicated that there
 was a bug, but did not specify where it was. It responded with the following:
